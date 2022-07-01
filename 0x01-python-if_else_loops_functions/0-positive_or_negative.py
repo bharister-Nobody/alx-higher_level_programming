@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Martins Akhivbareme
+# Author : Alabi Ayobami
 
 import random
 number = random.randint(-10, 10)
